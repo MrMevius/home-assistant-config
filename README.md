@@ -25,6 +25,6 @@ Still looking for a method to document all my hardware. :books:
 
 ## Authors & contributors
 
-The setup of this repository is heavily inspired by [Franck Nijhof][frenck].
+The setup of this repository is heavily inspired by @frenck.
 
-Also thanks to [Webber Takken][webbertakken] for the critical eye.
+Also thanks to @webbertakken for the critical eye.
