@@ -2,7 +2,7 @@
 
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
-[![GitHub Last Commit][last-commit-shield]][commits]
+[![GitHub Last Commit][last-commit-shield]
 
 ## About
 
@@ -31,6 +31,6 @@ Also thanks to [Webber Takken][webbertakken] for the critical eye.
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [license-shield]: https://img.shields.io/github/license/frenck/home-assistant-config.svg
-[last-commit-shield]: https://img.shields.io/github/last-commit/frenck/home-assistant-config.svg
+[last-commit-shield]: https://img.shields.io/github/last-commit/MrMevius/home-assistant-config.svg
 [frenck]: https://github.com/frenck
 [webbertakken]: https://github.com/webbertakken
