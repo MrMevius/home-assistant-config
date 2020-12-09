@@ -1,0 +1,15 @@
+---
+# Light group: hallway_upstairs
+#
+# This light controls all the lights in hallway upstairs.
+#
+# https://www.home-assistant.io/integrations/light.group/
+#
+platform: group
+name: hallway_upstairs
+entities:
+  - light.hallway_upstairs_ceiling_spotlight_front_1
+  - light.hallway_upstairs_ceiling_spotlight_front_2
+  - light.hallway_upstairs_ceiling_spotlight_front_3
+  - light.hallway_upstairs_ceiling_spotlight_back_1
+  - light.hallway_upstairs_ceiling_spotlight_back_2

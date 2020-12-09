@@ -1,0 +1,16 @@
+---
+# Light group: bathroom_upstairs
+#
+# This light controls all the lights in the bathroom upstairs
+#
+# https://www.home-assistant.io/integrations/light.group/
+#
+platform: group
+name: bathroom_upstairs
+entities:
+  - light.bathroom_upstairs_ceiling_spotlight_1
+  - light.bathroom_upstairs_ceiling_spotlight_2
+  - light.bathroom_upstairs_ceiling_spotlight_3
+  - light.bathroom_upstairs_ceiling_spotlight_4
+  - light.bathroom_upstairs_ceiling_spotlight_5
+  - light.bathroom_upstairs_ceiling_spotlight_6
