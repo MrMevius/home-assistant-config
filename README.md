@@ -2,7 +2,7 @@
 
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
-[![GitHub Last Commit][last-commit-shield]
+![GitHub Last Commit][last-commit-shield]
 
 ## About
 
