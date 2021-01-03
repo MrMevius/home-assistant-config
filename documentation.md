@@ -88,6 +88,22 @@ My plan is to use this wiki to document all home automation devices and their in
 | 00 | Tuya | HY368 | Radiator Actuator | RA05 | Zigbee | Yes | € 25,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | RA06 | Zigbee | Yes | € 25,- | No |
 | 00 | Zemismart | ZW-EU-01 | Tuya Smart light relay | t.b.a. | Zigbee | Yes | € 17,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS01 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS02 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS03 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS04 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS05 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS06 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS07 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS08 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS09 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS10 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS11 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS12 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS13 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS14 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS15 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS16 | Wifi | Yes | € 8,- | No |
 # Infrastructure
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
