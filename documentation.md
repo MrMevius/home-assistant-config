@@ -80,7 +80,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | 00 | AQara| ? | Air, thermo & humidity | TM05 | Zigbee | Yes | € 9,- | No |
 | 00 | AQara| ? | Air, thermo & humidity | TM06 | Zigbee | Yes | € 9,- | No |
 | 00 | AQara| ? | Air, thermo & humidity | TM07 | Zigbee | Yes | € 9,- | No |
-| 00 | Roborock | S5 Max | Vacuum & mop robot | VC01 | Zigbee | Yes | € 333,- | No |
+| 00 | Roborock | S5 Max | Vacuum & mop robot | VC01 | WiFi | Yes | € 333,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | RA01 | Zigbee | Yes | € 25,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | RA02 | Zigbee | Yes | € 25,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | RA03 | Zigbee | Yes | € 25,- | No |
@@ -126,3 +126,4 @@ My plan is to use this wiki to document all home automation devices and their in
 | 00 | DevKitC | ? | ESP32-WROOM-32D | t.b.a. | WiFi & Bluetooth | Yes | € 4,- | No |
 | 00 | DevKitC | ? | ESP32 | t.b.a. | WiFi & Bluetooth | Yes | € 4,- | No |
 | 00 | RobotLinking | FT232RL | USB to TTL Serial Converter | t.b.a. | USB | Yes | € 7,- | No |
+| 00 | Electrolama | zig-a-zig-ah! (zzh!) | CC2652R | t.b.a. | Zigbee | Yes | € 32,- | No |
