@@ -27,13 +27,16 @@ My plan is to use this wiki to document all home automation devices and their in
 # Hallway downstairs
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
-| 01 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot11 | Zigbee | Yes | € 6,99 | No |
-| 02 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot12 | Zigbee | Yes | € 6,99 | No |
-| 03 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | No |
-| 04 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot14 | Zigbee | Yes | € 6,99 | No |
-| 05 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot15 | Zigbee | Yes | € 6,99 | No |
-| 06 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot16 | Zigbee | Yes | € 6,99 | No |
-# Hallway upstairs
+| 01 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot11 | Zigbee | Yes | € 6,99 | Yes |
+| 02 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot12 | Zigbee | Yes | € 6,99 | Yes |
+| 03 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | Yes |
+# Hallway upstairs front
+| # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
+| :---: | --- | --- | --- | --- | --- | --- | --- | --- |
+| 00 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot14 | Zigbee | Yes | € 6,99 | No |
+| 00 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot15 | Zigbee | Yes | € 6,99 | No |
+| 00 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot16 | Zigbee | Yes | € 6,99 | No |
+# Hallway upstairs back
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot17 | Zigbee | Yes | € 6,99 | No |
