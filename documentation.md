@@ -23,13 +23,18 @@ My plan is to use this wiki to document all home automation devices and their in
 | 14 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds04 | Zigbee | Yes | € 35,- | No |
 | 15 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds05 | Zigbee | Yes | € 35,- | No |
 | 16 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds06 | Zigbee | Yes | € 35,- | No |
+| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion02 | Zigbee | Yes | € 5,- | Yes |
 # Kitchen
+| # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
+| :---: | --- | --- | --- | --- | --- | --- | --- | --- |
+| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | Yes |
 # Hallway downstairs
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot11 | Zigbee | Yes | € 6,99 | Yes |
 | 02 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot12 | Zigbee | Yes | € 6,99 | Yes |
 | 03 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | Yes |
+| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | Yes |
 # Hallway upstairs front
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -107,9 +112,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | 00 | gosund | SP-1 | Power switch & -meter | PS14 | Wifi | Yes | € 8,- | Yes |
 | 00 | gosund | SP-1 | Power switch & -meter | PS15 | Wifi | Yes | € 8,- | Yes |
 | 00 | gosund | SP-1 | Power switch & -meter | PS16 | Wifi | Yes | € 8,- | Yes |
-| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | No |
-| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion02 | Zigbee | Yes | € 5,- | No |
-| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | No |
+
 # Infrastructure
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
