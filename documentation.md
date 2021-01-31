@@ -7,16 +7,16 @@ My plan is to use this wiki to document all home automation devices and their in
 # Living room
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
-| 01 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot01 | Zigbee | Yes | € 6,99 | No |
-| 02 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot02 | Zigbee | Yes | € 6,99 | No |
-| 03 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot03 | Zigbee | Yes | € 6,99 | No |
-| 04 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot04 | Zigbee | Yes | € 6,99 | No |
-| 05 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot05 | Zigbee | Yes | € 6,99 | No |
-| 06 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot06 | Zigbee | Yes | € 6,99 | No |
-| 07 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot07 | Zigbee | Yes | € 6,99 | No |
-| 08 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot08 | Zigbee | Yes | € 6,99 | No |
-| 09 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot09 | Zigbee | Yes | € 6,99 | No |
-| 10 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot10 | Zigbee | Yes | € 6,99 | No |
+| 01 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot01 | Zigbee | Yes | € 6,99 | Yes |
+| 02 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot02 | Zigbee | Yes | € 6,99 | Yes |
+| 03 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot03 | Zigbee | Yes | € 6,99 | Yes |
+| 04 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot04 | Zigbee | Yes | € 6,99 | Yes |
+| 05 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot05 | Zigbee | Yes | € 6,99 | Yes |
+| 06 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot06 | Zigbee | Yes | € 6,99 | Yes |
+| 07 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot07 | Zigbee | Yes | € 6,99 | Yes |
+| 08 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot08 | Zigbee | Yes | € 6,99 | Yes |
+| 09 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot09 | Zigbee | Yes | € 6,99 | Yes |
+| 10 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot10 | Zigbee | Yes | € 6,99 | Yes |
 | 11 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds01 | Zigbee | Yes | € 35,- | No |
 | 12 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds02 | Zigbee | Yes | € 35,- | No |
 | 13 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds03 | Zigbee | Yes | € 35,- | No |
@@ -88,22 +88,25 @@ My plan is to use this wiki to document all home automation devices and their in
 | 00 | Tuya | HY368 | Radiator Actuator | RA05 | Zigbee | Yes | € 25,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | RA06 | Zigbee | Yes | € 25,- | No |
 | 00 | Zemismart | ZW-EU-01 | Tuya Smart light relay | t.b.a. | Zigbee | Yes | € 17,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS01 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS02 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS03 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS04 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS05 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS06 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS07 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS08 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS09 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS10 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS11 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS12 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS13 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS14 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS15 | Wifi | Yes | € 8,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS16 | Wifi | Yes | € 8,- | No |
+| 00 | gosund | SP-1 | Power switch & -meter | PS01 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS02 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS03 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS04 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS05 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS06 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS07 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS08 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS09 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS10 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS11 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS12 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS13 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS14 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS15 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PS16 | Wifi | Yes | € 8,- | Yes |
+| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | No |
+| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion02 | Zigbee | Yes | € 5,- | No |
+| 00 | Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | No |
 # Infrastructure
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
