@@ -89,29 +89,29 @@ My plan is to use this wiki to document all home automation devices and their in
 | 00 | AQara| ? | Air, thermo & humidity | Thernometer06 | Zigbee | Yes | € 9,- | No |
 | 00 | AQara| ? | Air, thermo & humidity | Thernometer07 | Zigbee | Yes | € 9,- | No |
 | 00 | Roborock | S5 Max | Vacuum & mop robot | VC01 | WiFi | Yes | € 333,- | No |
-| 00 | Tuya | HY368 | Radiator Actuator | RA01 | Zigbee | Yes | € 25,- | No |
-| 00 | Tuya | HY368 | Radiator Actuator | RA02 | Zigbee | Yes | € 25,- | No |
-| 00 | Tuya | HY368 | Radiator Actuator | RA03 | Zigbee | Yes | € 25,- | No |
-| 00 | Tuya | HY368 | Radiator Actuator | RA04 | Zigbee | Yes | € 25,- | No |
-| 00 | Tuya | HY368 | Radiator Actuator | RA05 | Zigbee | Yes | € 25,- | No |
-| 00 | Tuya | HY368 | Radiator Actuator | RA06 | Zigbee | Yes | € 25,- | No |
+| 00 | Tuya | HY368 | Radiator Actuator | Radiator01 | Zigbee | Yes | € 25,- | No |
+| 00 | Tuya | HY368 | Radiator Actuator | Radiator02 | Zigbee | Yes | € 25,- | No |
+| 00 | Tuya | HY368 | Radiator Actuator | Radiator03 | Zigbee | Yes | € 25,- | No |
+| 00 | Tuya | HY368 | Radiator Actuator | Radiator04 | Zigbee | Yes | € 25,- | No |
+| 00 | Tuya | HY368 | Radiator Actuator | Radiator05 | Zigbee | Yes | € 25,- | No |
+| 00 | Tuya | HY368 | Radiator Actuator | Radiator06 | Zigbee | Yes | € 25,- | No |
 | 00 | Zemismart | ZW-EU-01 | Tuya Smart light relay | t.b.a. | Zigbee | Yes | € 17,- | No |
-| 00 | gosund | SP-1 | Power switch & -meter | PS01 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS02 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS03 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS04 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS05 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS06 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS07 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS08 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS09 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS10 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS11 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS12 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS13 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS14 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS15 | Wifi | Yes | € 8,- | Yes |
-| 00 | gosund | SP-1 | Power switch & -meter | PS16 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch01 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch02 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch03 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch04 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch05 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch06 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch07 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch08 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch09 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch10 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch11 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch12 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch13 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch14 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch15 | Wifi | Yes | € 8,- | Yes |
+| 00 | gosund | SP-1 | Power switch & -meter | PowerSwitch16 | Wifi | Yes | € 8,- | Yes |
 
 # Infrastructure
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
