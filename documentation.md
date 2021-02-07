@@ -83,10 +83,8 @@ My plan is to use this wiki to document all home automation devices and their in
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer03 | Bluetooth | Yes | € 15,- | No |
 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | No |
 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer05 | Zigbee | Yes | € 15,- | No |
-| AQara| ? | Air, thermo & humidity | Thermometer04 | Zigbee | Yes | € 9,- | No |
-| AQara| ? | Air, thermo & humidity | Thermometer05 | Zigbee | Yes | € 9,- | No |
-| AQara| ? | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | No |
-| AQara| ? | Air, thermo & humidity | Thermometer07 | Zigbee | Yes | € 9,- | No |
+| Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | No |
+| Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer07 | Zigbee | Yes | € 9,- | No |
 | Roborock | S5 Max | Vacuum & mop robot | VC01 | WiFi | Yes | € 333,- | No |
 | Tuya | HY368 | Radiator Actuator | Radiator01 | Zigbee | Yes | € 25,- | No |
 | Tuya | HY368 | Radiator Actuator | Radiator02 | Zigbee | Yes | € 25,- | No |
