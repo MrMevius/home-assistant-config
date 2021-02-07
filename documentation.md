@@ -79,15 +79,15 @@ My plan is to use this wiki to document all home automation devices and their in
 | # | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | :---: | --- | --- | --- | --- | --- | --- | --- | --- |
 | 00 | Broadlink | RM4C mini | Universal IR Remote | BL01 | 433MHz | Yes | € 35,- | No |
-| 00 | XIAOMI | CGG1 | Thermo & Hygrometer | Thernometer01 | Bluetooth | Yes | € 15,- | No |
-| 00 | XIAOMI | CGG1 | Thermo & Hygrometer | Thernometer02 | Bluetooth | Yes | € 15,- | No |
-| 00 | XIAOMI | CGG1 | Thermo & Hygrometer | Thernometer03 | Bluetooth | Yes | € 15,- | No |
-| 00 | Tuya | TS0201 | Thermo & Hygrometer | Thernometer04 | Zigbee | Yes | € 15,- | No |
-| 00 | Tuya | TS0201 | Thermo & Hygrometer | Thernometer05 | Zigbee | Yes | € 15,- | No |
-| 00 | AQara| ? | Air, thermo & humidity | Thernometer04 | Zigbee | Yes | € 9,- | No |
-| 00 | AQara| ? | Air, thermo & humidity | Thernometer05 | Zigbee | Yes | € 9,- | No |
-| 00 | AQara| ? | Air, thermo & humidity | Thernometer06 | Zigbee | Yes | € 9,- | No |
-| 00 | AQara| ? | Air, thermo & humidity | Thernometer07 | Zigbee | Yes | € 9,- | No |
+| 00 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer01 | Bluetooth | Yes | € 15,- | No |
+| 00 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer02 | Bluetooth | Yes | € 15,- | No |
+| 00 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer03 | Bluetooth | Yes | € 15,- | No |
+| 00 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | No |
+| 00 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer05 | Zigbee | Yes | € 15,- | No |
+| 00 | AQara| ? | Air, thermo & humidity | Thermometer04 | Zigbee | Yes | € 9,- | No |
+| 00 | AQara| ? | Air, thermo & humidity | Thermometer05 | Zigbee | Yes | € 9,- | No |
+| 00 | AQara| ? | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | No |
+| 00 | AQara| ? | Air, thermo & humidity | Thermometer07 | Zigbee | Yes | € 9,- | No |
 | 00 | Roborock | S5 Max | Vacuum & mop robot | VC01 | WiFi | Yes | € 333,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | Radiator01 | Zigbee | Yes | € 25,- | No |
 | 00 | Tuya | HY368 | Radiator Actuator | Radiator02 | Zigbee | Yes | € 25,- | No |
