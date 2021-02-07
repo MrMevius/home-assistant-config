@@ -28,6 +28,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | Yes |
+| Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | Yes |
 # Hallway downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -59,6 +60,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1837R5 | LED Spotlight GU10 | Spot20 | Zigbee | Yes | € 6,99 | No |
 | Ikea | LED1837R5 | LED Spotlight GU10 | Spot21 | Zigbee | Yes | € 6,99 | No |
 | Ikea | LED1837R5 | LED Spotlight GU10 | Spot21 | Zigbee | Yes | € 6,99 | No |
+| Tuya | TS0201 | Thermo & Hygrometer | Thermometer05 | Zigbee | Yes | € 15,- | Yes |
 # Bathroom downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -69,6 +71,9 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot26 | Zigbee | Yes | € 6,99 | No |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot27 | Zigbee | Yes | € 6,99 | No |
 # Bathroom upstairs
+| Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | Yes |
 # Home gym
 # Toilet downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
@@ -81,10 +86,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer01 | Bluetooth | Yes | € 15,- | No |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer02 | Bluetooth | Yes | € 15,- | No |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer03 | Bluetooth | Yes | € 15,- | No |
-| Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | No |
-| Tuya | TS0201 | Thermo & Hygrometer | Thermometer05 | Zigbee | Yes | € 15,- | No |
-| Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | No |
-| Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer07 | Zigbee | Yes | € 9,- | No |
+| Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer07 | Zigbee | Yes | € 9,- | Yes |
 | Roborock | S5 Max | Vacuum & mop robot | VC01 | WiFi | Yes | € 333,- | No |
 | Tuya | HY368 | Radiator Actuator | Radiator01 | Zigbee | Yes | € 25,- | No |
 | Tuya | HY368 | Radiator Actuator | Radiator02 | Zigbee | Yes | € 25,- | No |
