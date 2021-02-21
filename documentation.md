@@ -111,6 +111,14 @@ My plan is to use this wiki to document all home automation devices and their in
 | gosund | SP-1 | Power switch & -meter | PowerSwitch14 | Wifi | Yes | € 8,- | Yes |
 | gosund | SP-1 | Power switch & -meter | PowerSwitch15 | Wifi | Yes | € 8,- | Yes |
 | gosund | SP-1 | Power switch & -meter | PowerSwitch16 | Wifi | Yes | € 8,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion04 | Zigbee | Yes | € 10,- | No |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion05 | Zigbee | Yes | € 10,- | No |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion06 | Zigbee | Yes | € 10,- | No |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion07 | Zigbee | Yes | € 10,- | No |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor01 | Zigbee | Yes | € 8,- | No |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor02 | Zigbee | Yes | € 8,- | No |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor03 | Zigbee | Yes | € 8,- | No |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor04 | Zigbee | Yes | € 8,- | No |
 # Infrastructure
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
