@@ -21,11 +21,21 @@ Coming soon :wrench:
 
 ## Hardware
 
-Still looking for a method to document all my hardware. :books:
+All my hardware is documented  in [documentation.md]. :books:
+
+## Blog
+
+In a brain fart I thought it would be fun to document my adventures in a [blog](https://www.urbandictionary.com/define.php?term=blog), so lets see how far I will get.
+
+### 2021-02-28 Aqara motion- & door/windows ensors
+* Received the [Aqara Motion Sensors](https://www.aliexpress.com/item/32975225751.html) & [Door Window Sensors](https://www.aliexpress.com/item/32991903307.html) (To compare them to TRADFRI sensors)
+* Labeled them (Motion## & DoorSensor##)
+* Linked them to Home Assistant
+* Installed them in the rooms (office, toilet, bathroom, hallway, living, kitchen)
 
 ## Authors & contributors
 
-The setup of this repository is heavily inspired by [Franck Nijhof][frenck].
+The setup of this repository is inspired by [Franck Nijhof][frenck].
 
 Also thanks to [Webber Takken][webbertakken] for the critical eye.
 
