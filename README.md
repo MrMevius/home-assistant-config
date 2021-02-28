@@ -6,7 +6,7 @@
 
 ## About
 
-This is my first attempt at home automation, Home Assistant _and_ GibHub,
+This is my first attempt at home automation, Home Assistant _and_ GitHub,
 so fingers crossed! :tada:
 
 You are looking at the /config folder from my personal Home Assistant setup.
