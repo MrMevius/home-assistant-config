@@ -21,7 +21,7 @@ Coming soon :wrench:
 
 ## Hardware
 
-All my hardware is documented in [documentation.md](https://github.com/MrMevius/home-assistant-config/blob/masterbranch/documentation.md). :books:
+All my hardware is documented in [documentation](https://github.com/MrMevius/home-assistant-config/blob/masterbranch/documentation.md). :books:
 
 ## Blog
 
