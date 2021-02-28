@@ -21,7 +21,7 @@ Coming soon :wrench:
 
 ## Hardware
 
-All my hardware is documented  in [documentation.md]. :books:
+All my hardware is documented in [documentation.md](https://github.com/MrMevius/home-assistant-config/blob/masterbranch/documentation.md). :books:
 
 ## Blog
 
@@ -31,7 +31,7 @@ In a brain fart I thought it would be fun to document my adventures in a [blog](
 * Received the [Aqara Motion Sensors](https://www.aliexpress.com/item/32975225751.html) & [Door Window Sensors](https://www.aliexpress.com/item/32991903307.html) (To compare them to TRADFRI sensors)
 * Labeled them (Motion## & DoorSensor##)
 * Linked them to Home Assistant
-* Installed them in the rooms (office, toilet, bathroom, hallway, living, kitchen)
+* Installed them in their rooms (office, toilet, bathroom, hallway, living, kitchen)
 
 ## Authors & contributors
 
