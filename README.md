@@ -27,8 +27,12 @@ All my hardware is documented in [documentation](https://github.com/MrMevius/hom
 
 In a brain fart I thought it would be fun to document my adventures in a [blog](https://www.urbandictionary.com/define.php?term=blog), so lets see how far I will get.
 
-### 2021-02-28 Aqara motion- & door/windows ensors
-* Received the [Aqara Motion Sensors](https://www.aliexpress.com/item/32975225751.html) & [Door Window Sensors](https://www.aliexpress.com/item/32991903307.html) (To compare them to TRADFRI sensors)
+### 2021-03-16 Aqara motion- & door/windows sensors
+* Received another batch of 2 [Aqara Motion Sensors](https://www.aliexpress.com/item/32975225751.html) & 4 [Door Window Sensors](https://www.aliexpress.com/item/32991903307.html) and Labeled them
+* Received [CC2531](https://www.aliexpress.com/item/4000059514865.html) and [CC2530+CC2591](https://www.aliexpress.com/item/4000278462659.html) development boards
+
+### 2021-02-28 Aqara motion- & door/windows sensors
+* Received 4 [Aqara Motion Sensors](https://www.aliexpress.com/item/32975225751.html) & 4 [Door Window Sensors](https://www.aliexpress.com/item/32991903307.html) (To compare them to TRADFRI sensors)
 * Labeled them (Motion## & DoorSensor##)
 * Linked them to Home Assistant
 * Installed them in their rooms (office, toilet, bathroom, hallway, living, kitchen)

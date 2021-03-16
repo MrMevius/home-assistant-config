@@ -29,6 +29,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | Yes |
 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor03 | Zigbee | Yes | € 8,- | Yes |
 # Hallway downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,6 +37,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot12 | Zigbee | Yes | € 6,99 | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | Yes |
 | Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion04 | Zigbee | Yes | € 10,- | Yes |
 # Hallway upstairs front
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -47,11 +49,16 @@ My plan is to use this wiki to document all home automation devices and their in
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot17 | Zigbee | Yes | € 6,99 | No |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot18 | Zigbee | Yes | € 6,99 | No |
-# Master bedroom
+# Master Bedroom
 # Guest Bedroom
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds07 | Zigbee | Yes | € 35,- | No |
+# Guest Bed & Breakfast
+| Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+| Aqara | RTCGQ11LM | Motion Sensor | Motion05 | Zigbee | Yes | € 10,- | Yes |
 # Office Mark
 # Office Janneke
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
@@ -61,6 +68,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1837R5 | LED Spotlight GU10 | Spot21 | Zigbee | Yes | € 6,99 | No |
 | Ikea | LED1837R5 | LED Spotlight GU10 | Spot21 | Zigbee | Yes | € 6,99 | No |
 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer05 | Zigbee | Yes | € 15,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor01 | Zigbee | Yes | € 8,- | Yes |
 # Bathroom downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -74,11 +82,14 @@ My plan is to use this wiki to document all home automation devices and their in
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor04 | Zigbee | Yes | € 8,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion06 | Zigbee | Yes | € 10,- | Yes |
 # Home gym
 # Toilet downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot28 | Zigbee | Yes | € 6,99 | No |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor02 | Zigbee | Yes | € 8,- | Yes |
 # Unassigned/miscellaneous
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -111,20 +122,21 @@ My plan is to use this wiki to document all home automation devices and their in
 | gosund | SP-1 | Power switch & -meter | PowerSwitch14 | Wifi | Yes | € 8,- | Yes |
 | gosund | SP-1 | Power switch & -meter | PowerSwitch15 | Wifi | Yes | € 8,- | Yes |
 | gosund | SP-1 | Power switch & -meter | PowerSwitch16 | Wifi | Yes | € 8,- | Yes |
-| Aqara | RTCGQ11LM | Motion Sensor | Motion04 | Zigbee | Yes | € 10,- | Yes |
-| Aqara | RTCGQ11LM | Motion Sensor | Motion05 | Zigbee | Yes | € 10,- | Yes |
-| Aqara | RTCGQ11LM | Motion Sensor | Motion06 | Zigbee | Yes | € 10,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion07 | Zigbee | Yes | € 10,- | Yes |
-| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor01 | Zigbee | Yes | € 8,- | Yes |
-| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor02 | Zigbee | Yes | € 8,- | Yes |
-| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor03 | Zigbee | Yes | € 8,- | Yes |
-| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor04 | Zigbee | Yes | € 8,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion08 | Zigbee | Yes | € 10,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion09 | Zigbee | Yes | € 10,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor05 | Zigbee | Yes | € 8,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor06 | Zigbee | Yes | € 8,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor07 | Zigbee | Yes | € 8,- | Yes |
+| Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor08 | Zigbee | Yes | € 8,- | Yes |
 # Infrastructure
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Raspberry Pi | 4B 4GB | Development board | t.b.a. | USB & WiFi| Yes | € 60,- | No |
-| ? | Z-0002 | CC2530+CC2591 | t.b.a. | Zigbee | Yes | € 10,- | No |
-| ? | CC2531 | Zigbee to USB | t.b.a. | Zigbee | Yes | € 5,- | No |
+| IGMOPNRQ | Z-0002 | CC2530+CC2591 | t.b.a. | Zigbee | Yes | € 10,- | No |
+| IGMOPNRQ | Z-0002 | CC2530+CC2591 | t.b.a. | Zigbee | Yes | € 10,- | No |
+| Wavgat | CC2531 | Zigbee to USB | t.b.a. | Zigbee | Yes | € 5,- | No |
+| Wavgat | CC2531 | Zigbee to USB | t.b.a. | Zigbee | Yes | € 5,- | No |
 | ? | CC2530 | Development board | t.b.a. | Zigbee | Yes | € 5,- | No |
 | ? | ? | CC Debugger | t.b.a. | Serial | Yes | € 10,- | No |
 | Orico | A3H | Powered USB-hub | t.b.a. | USB 3.0 | Yes | € 21,- | No |
