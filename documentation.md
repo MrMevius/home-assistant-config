@@ -72,18 +72,20 @@ My plan is to use this wiki to document all home automation devices and their in
 # Bathroom downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot22 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot23 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot24 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot25 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot26 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot27 | Zigbee | Yes | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot22 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot23 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot24 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot25 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot26 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot27 | Zigbee | No | € 6,99 | No |
 # Bathroom upstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer06 | Zigbee | Yes | € 9,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor04 | Zigbee | Yes | € 8,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion06 | Zigbee | Yes | € 10,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot29 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot30 | Zigbee | No | € 6,99 | No |
 # Home gym
 # Toilet downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
