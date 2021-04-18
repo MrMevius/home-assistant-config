@@ -57,7 +57,6 @@ My plan is to use this wiki to document all home automation devices and their in
 # Guest Bed & Breakfast
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 | Aqara | RTCGQ11LM | Motion Sensor | Motion05 | Zigbee | Yes | € 10,- | Yes |
 # Office Mark
 # Office Janneke
@@ -86,6 +85,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Aqara | RTCGQ11LM | Motion Sensor | Motion06 | Zigbee | Yes | € 10,- | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot29 | Zigbee | No | € 6,99 | No |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot30 | Zigbee | No | € 6,99 | No |
+| Moes | MS-104Z | Smart Switch Relay | Relay01 | Zigbee | Yes | € 6,99 | Yes |
 # Home gym
 # Toilet downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
