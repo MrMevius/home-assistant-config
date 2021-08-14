@@ -38,6 +38,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | Yes |
 | Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion04 | Zigbee | Yes | € 10,- | Yes |
+| Shelly | 1 | Relay Switch | Shelly01 | WiFi | No | € 11,- | No |
 # Hallway upstairs front
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -156,3 +157,6 @@ My plan is to use this wiki to document all home automation devices and their in
 | DevKitC | ? | ESP32 | t.b.a. | WiFi & Bluetooth | Yes | € 4,- | No |
 | RobotLinking | FT232RL | USB to TTL Serial Converter | t.b.a. | USB | Yes | € 7,- | No |
 | Electrolama | zig-a-zig-ah! (zzh!) | CC2652R | t.b.a. | Zigbee | Yes | € 32,- | No |
+| Shelly | 1 | Relay Switch | Shelly02 | WiFi | No | € 11,- | No |
+| Shelly | 1 | Relay Switch | Shelly03 | WiFi | No | € 11,- | No |
+| Shelly | 1 | Relay Switch | Shelly04 | WiFi | No | € 11,- | No |
