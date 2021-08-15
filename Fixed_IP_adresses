@@ -1,7 +1,14 @@
-Config for my gosund power switches.
+Config for my esp boards/device.
 
-Platform: ESP8266
-Board: esp8285
+gosund:
+  name: ps##
+  Platform: ESP8266
+  Board: esp8285
+
+esphome:
+  name: shelly##
+  platform: ESP8266
+  board: esp01_1m
 
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
 | :---: | --- | --- | --- | --- | --- | --- |
@@ -21,3 +28,7 @@ Board: esp8285
 |  | gosund | SP-1 | 192.168.1.54 | ps14 | Mevius domotica | ps14.daarle |
 |  | gosund | SP-1 | 192.168.1.55 | ps15 | Mevius domotica | ps15.daarle |
 |  | gosund | SP-1 | 192.168.1.56 | ps16 | Mevius domotica | ps16.daarle |
+|  | Shelly | 1 | 192.168.1.57 | shelly01 | Mevius domotica | shelly01.daarle |
+|  | Shelly | 1 | 192.168.1.58 | shelly02 | Mevius domotica | shelly02.daarle |
+|  | Shelly | 1 | 192.168.1.59 | shelly03 | Mevius domotica | shelly03.daarle |
+|  | Shelly | 1 | 192.168.1.60 | shelly04 | Mevius domotica | shelly04.daarle |
