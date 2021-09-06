@@ -60,6 +60,9 @@ My plan is to use this wiki to document all home automation devices and their in
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion05 | Zigbee | Yes | € 10,- | Yes |
 # Office Mark
+| Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| QuinLED | Dig-Quad | Digital LED controller | DigQuad01 | WiFi | Yes | € 55,- | No |
 # Office Janneke
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
