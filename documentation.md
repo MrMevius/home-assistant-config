@@ -24,12 +24,14 @@ My plan is to use this wiki to document all home automation devices and their in
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds05 | Zigbee | Yes | € 35,- | No |
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds06 | Zigbee | Yes | € 35,- | No |
 | Ikea | E1525 | TRADFRI motion sensor | Motion02 | Zigbee | Yes | € 5,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion08 | Zigbee | Yes | € 10,- | Yes |
 # Kitchen
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | Yes |
 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor03 | Zigbee | Yes | € 8,- | Yes |
+| Aqara | RTCGQ11LM | Motion Sensor | Motion07 | Zigbee | Yes | € 10,- | Yes |
 # Hallway downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -90,12 +92,14 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot29 | Zigbee | No | € 6,99 | No |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot30 | Zigbee | No | € 6,99 | No |
 | Moes | MS-104Z | Smart Switch Relay | Relay01 | Zigbee | Yes | € 6,99 | Yes |
+| Shelly | 1 | Relay Switch | Shelly03 | WiFi | Yes | € 11,- | No |
 # Home gym
 # Toilet downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot28 | Zigbee | Yes | € 6,99 | No |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor02 | Zigbee | Yes | € 8,- | Yes |
+| Shelly | 1 | Relay Switch | Shelly02 | WiFi | Yes | € 11,- | No |
 # Unassigned/miscellaneous
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -128,13 +132,12 @@ My plan is to use this wiki to document all home automation devices and their in
 | gosund | SP-1 | Power switch & -meter | PowerSwitch14 | Wifi | Yes | € 8,- | Yes |
 | gosund | SP-1 | Power switch & -meter | PowerSwitch15 | Wifi | Yes | € 8,- | Yes |
 | gosund | SP-1 | Power switch & -meter | PowerSwitch16 | Wifi | Yes | € 8,- | Yes |
-| Aqara | RTCGQ11LM | Motion Sensor | Motion07 | Zigbee | Yes | € 10,- | Yes |
-| Aqara | RTCGQ11LM | Motion Sensor | Motion08 | Zigbee | Yes | € 10,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion09 | Zigbee | Yes | € 10,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor05 | Zigbee | Yes | € 8,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor06 | Zigbee | Yes | € 8,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor07 | Zigbee | Yes | € 8,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor08 | Zigbee | Yes | € 8,- | Yes |
+| Shelly | 1 | Relay Switch | Shelly04 | WiFi | Yes | € 11,- | No |
 # Infrastructure
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -160,6 +163,3 @@ My plan is to use this wiki to document all home automation devices and their in
 | DevKitC | ? | ESP32 | t.b.a. | WiFi & Bluetooth | Yes | € 4,- | No |
 | RobotLinking | FT232RL | USB to TTL Serial Converter | t.b.a. | USB | Yes | € 7,- | No |
 | Electrolama | zig-a-zig-ah! (zzh!) | CC2652R | t.b.a. | Zigbee | Yes | € 32,- | No |
-| Shelly | 1 | Relay Switch | Shelly02 | WiFi | No | € 11,- | No |
-| Shelly | 1 | Relay Switch | Shelly03 | WiFi | No | € 11,- | No |
-| Shelly | 1 | Relay Switch | Shelly04 | WiFi | No | € 11,- | No |
