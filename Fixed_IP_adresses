@@ -29,7 +29,7 @@ Shelly:
   platform: ESP8266
   board: esp01_1m
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name | shelly.click |
-| :---: | --- | --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | --- | --- | --- | --- |
 |  | Shelly | 1 | 192.168.1.57 | shelly01 | Mevius domotica | shelly01.daarle | shelly1-E8DB84D373C5 |
 |  | Shelly | 1 | 192.168.1.58 | shelly02 | Mevius domotica | shelly02.daarle | shelly1-E8DB84D43472 |
 |  | Shelly | 1 | 192.168.1.59 | shelly03 | Mevius domotica | shelly03.daarle | shelly1-E8DB84D37834 |
