@@ -1,14 +1,9 @@
 Config for my esp boards/device.
 
-gosund:
+Gosund power plugs:
   name: ps##
   Platform: ESP8266
   Board: esp8285
-
-esphome:
-  name: shelly##
-  platform: ESP8266
-  board: esp01_1m
 
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
 | :---: | --- | --- | --- | --- | --- | --- |
@@ -28,8 +23,22 @@ esphome:
 |  | gosund | SP-1 | 192.168.1.54 | ps14 | Mevius domotica | ps14.daarle |
 |  | gosund | SP-1 | 192.168.1.55 | ps15 | Mevius domotica | ps15.daarle |
 |  | gosund | SP-1 | 192.168.1.56 | ps16 | Mevius domotica | ps16.daarle |
-|  | Shelly | 1 | 192.168.1.57 | shelly01 | Mevius domotica | shelly01.daarle |
-|  | Shelly | 1 | 192.168.1.58 | shelly02 | Mevius domotica | shelly02.daarle |
-|  | Shelly | 1 | 192.168.1.59 | shelly03 | Mevius domotica | shelly03.daarle |
-|  | Shelly | 1 | 192.168.1.60 | shelly04 | Mevius domotica | shelly04.daarle |
+
+Shelly:
+  name: shelly##
+  platform: ESP8266
+  board: esp01_1m
+| # | Brand | Model | IP Address | Device name | WiFi Network | DNS name | shelly.click |
+| :---: | --- | --- | --- | --- | --- | --- |
+|  | Shelly | 1 | 192.168.1.57 | shelly01 | Mevius domotica | shelly01.daarle | shelly1-E8DB84D373C5 |
+|  | Shelly | 1 | 192.168.1.58 | shelly02 | Mevius domotica | shelly02.daarle | shelly1-E8DB84D43472 |
+|  | Shelly | 1 | 192.168.1.59 | shelly03 | Mevius domotica | shelly03.daarle | shelly1-E8DB84D37834 |
+|  | Shelly | 1 | 192.168.1.60 | shelly04 | Mevius domotica | shelly04.daarle | |
+
+QuinLED:
+  name: QuinLED_
+  platform: ESP32
+  board: QuinLED
+| # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
+| :---: | --- | --- | --- | --- | --- | --- |
 |  | QuinLED | Dig-Quad | 192.168.1.61 | DigQuad01 | Mevius domotica | digquad01.daarle |
