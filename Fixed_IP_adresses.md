@@ -28,6 +28,7 @@ Config for my esp boards/device.
   name: shelly##
   platform: ESP8266
   board: esp01_1m
+
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name | shelly.click |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Shelly | 1 | 192.168.1.57 | shelly01 | Mevius domotica | shelly01.daarle | shelly1-E8DB84D373C5 |
@@ -39,6 +40,7 @@ Config for my esp boards/device.
   name: QuinLED_
   platform: ESP32
   board: QuinLED
+
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | QuinLED | Dig-Quad | 192.168.1.61 | DigQuad01 | Mevius domotica | digquad01.daarle |
