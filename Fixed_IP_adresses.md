@@ -2,8 +2,8 @@ Config for my esp boards/device.
 
 # Gosund power plugs:
   name: ps##
-  Platform: ESP8266
-  Board: esp8285
+  Platform: ESPhome
+  Board: ESP8266
 
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,8 +26,8 @@ Config for my esp boards/device.
 
 # Shelly:
   name: shelly##
-  platform: ESP8266
-  board: esp01_1m
+  platform: ESPhome
+  board: ESP8266
 
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name | shelly.click |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,9 +38,18 @@ Config for my esp boards/device.
 
 # QuinLED:
   name: QuinLED_
-  platform: ESP32
+  platform: WLED
   board: QuinLED
 
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | QuinLED | Dig-Quad | 192.168.1.61 | DigQuad01 | Mevius domotica | digquad01.daarle |
+|  | QuinLED | Dig-Uno | 192.168.1.62 | DigUno01 | Mevius domotica | diguno01.daarle |
+
+# ESP32 for bluetooth connectivity:
+  name: ESP32_##
+  platform: ESPhome
+  board: ESP32
+| # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Espressif | ESP32-WROOM-32D | 192.168.1.71 | ESP32_01 | Mevius domotica | ESP32_01.daarle |
