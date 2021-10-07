@@ -167,7 +167,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | DevKitC | ? | ESP32 | t.b.a. | WiFi & Bluetooth | Yes | € 4,- | No |
 | RobotLinking | FT232RL | USB to TTL Serial Converter | t.b.a. | USB | Yes | € 7,- | No |
 | Electrolama | zig-a-zig-ah! (zzh!) | CC2652R | t.b.a. | Zigbee | Yes | € 32,- | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot31 | Zigbee | Yes | € 4,- | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot32 | Zigbee | Yes | € 4,- | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot33 | Zigbee | Yes | € 4,- | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot34 | Zigbee | Yes | € 4,- | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot31 | Zigbee | Yes | € 4,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot32 | Zigbee | Yes | € 4,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot33 | Zigbee | Yes | € 4,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot34 | Zigbee | Yes | € 4,- | Yes |
