@@ -23,12 +23,10 @@ My plan is to use this wiki to document all home automation devices and their in
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds04 | Zigbee | Yes | € 35,- | No |
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds05 | Zigbee | Yes | € 35,- | No |
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds06 | Zigbee | Yes | € 35,- | No |
-| Ikea | E1525 | TRADFRI motion sensor | Motion02 | Zigbee | Yes | € 5,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion08 | Zigbee | Yes | € 10,- | Yes |
 # Kitchen
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | Yes |
 | Tuya | TS0201 | Thermo & Hygrometer | Thermometer04 | Zigbee | Yes | € 15,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor03 | Zigbee | Yes | € 8,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion07 | Zigbee | Yes | € 10,- | Yes |
@@ -38,7 +36,6 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot11 | Zigbee | Yes | € 6,99 | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot12 | Zigbee | Yes | € 6,99 | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | Yes |
-| Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion04 | Zigbee | Yes | € 10,- | Yes |
 | Shelly | 1 | Relay Switch | Shelly01 | WiFi | No | € 11,- | No |
 # Hallway upstairs front
@@ -142,6 +139,8 @@ My plan is to use this wiki to document all home automation devices and their in
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor07 | Zigbee | Yes | € 8,- | Yes |
 | Aqara | MCCGQ11LM | Door Window Sensor | DoorSensor08 | Zigbee | Yes | € 8,- | Yes |
 | Shelly | 1 | Relay Switch | Shelly04 | WiFi | Yes | € 11,- | No |
+| Aqara | WXKG07LM | Light switch | LightSwitch01 | Zigbee | Yes | € 12,- | Yes |
+| Aqara | WXKG07LM | Light switch | LightSwitch02 | Zigbee | Yes | € 12,- | Yes |
 # Infrastructure
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -171,3 +170,9 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot32 | Zigbee | Yes | € 4,- | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot33 | Zigbee | Yes | € 4,- | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot34 | Zigbee | Yes | € 4,- | Yes |
+# phased out
+| Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ikea | E1525 | TRADFRI motion sensor | Motion01 | Zigbee | Yes | € 5,- | Yes |
+| Ikea | E1525 | TRADFRI motion sensor | Motion02 | Zigbee | Yes | € 5,- | Yes |
+| Ikea | E1525 | TRADFRI motion sensor | Motion03 | Zigbee | Yes | € 5,- | Yes |
