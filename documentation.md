@@ -41,14 +41,14 @@ My plan is to use this wiki to document all home automation devices and their in
 # Hallway upstairs front
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot14 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot15 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot16 | Zigbee | Yes | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot14 | Zigbee | Yes | € 6,99 | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot15 | Zigbee | Yes | € 6,99 | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot16 | Zigbee | Yes | € 6,99 | Yes |
 # Hallway upstairs back
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot17 | Zigbee | Yes | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot18 | Zigbee | Yes | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot31 | Zigbee | Yes | € 4,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot32 | Zigbee | Yes | € 4,- | Yes |
 # Master Bedroom
 # Guest Bedroom
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
@@ -74,12 +74,11 @@ My plan is to use this wiki to document all home automation devices and their in
 # Bathroom downstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot22 | Zigbee | No | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot23 | Zigbee | No | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot24 | Zigbee | No | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot25 | Zigbee | No | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot26 | Zigbee | No | € 6,99 | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot27 | Zigbee | No | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot22 | Zigbee | Yes | € 6,99 | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot23 | Zigbee | Yes | € 6,99 | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot24 | Zigbee | Yes | € 6,99 | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot25 | Zigbee | Yes | € 6,99 | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot26 | Zigbee | Yes | € 6,99 | Yes |
 # Bathroom upstairs
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -141,6 +140,10 @@ My plan is to use this wiki to document all home automation devices and their in
 | Shelly | 1 | Relay Switch | Shelly04 | WiFi | Yes | € 11,- | No |
 | Aqara | WXKG07LM | Light switch | LightSwitch01 | Zigbee | Yes | € 12,- | Yes |
 | Aqara | WXKG07LM | Light switch | LightSwitch02 | Zigbee | Yes | € 12,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot17 | Zigbee | Yes | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot18 | Zigbee | Yes | € 6,99 | No |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot33 | Zigbee | Yes | € 4,- | Yes |
+| Ikea | LED1650R5 | LED Spotlight GU10 | Spot34 | Zigbee | Yes | € 4,- | Yes |
 # Infrastructure
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -166,10 +169,6 @@ My plan is to use this wiki to document all home automation devices and their in
 | DevKitC | ? | ESP32 | t.b.a. | WiFi & Bluetooth | Yes | € 4,- | No |
 | RobotLinking | FT232RL | USB to TTL Serial Converter | t.b.a. | USB | Yes | € 7,- | No |
 | Electrolama | zig-a-zig-ah! (zzh!) | CC2652R | t.b.a. | Zigbee | Yes | € 32,- | No |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot31 | Zigbee | Yes | € 4,- | Yes |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot32 | Zigbee | Yes | € 4,- | Yes |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot33 | Zigbee | Yes | € 4,- | Yes |
-| Ikea | LED1650R5 | LED Spotlight GU10 | Spot34 | Zigbee | Yes | € 4,- | Yes |
 # phased out
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
