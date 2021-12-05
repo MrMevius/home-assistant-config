@@ -24,6 +24,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds05 | Zigbee | Yes | € 35,- | No |
 | Zemismart | ZM25TQ | Tuya Tobular Motor | WindowBlinds06 | Zigbee | Yes | € 35,- | No |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion08 | Zigbee | Yes | € 10,- | Yes |
+| Broadlink | RM4 pro | Universal IR & RF Remote | BL01 | 433MHz | Yes | € 35,- | No |
 # Kitchen
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -99,7 +100,6 @@ My plan is to use this wiki to document all home automation devices and their in
 # Unassigned/miscellaneous
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Broadlink | RM4C mini | Universal IR Remote | BL01 | 433MHz | Yes | € 35,- | No |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer01 | Bluetooth | Yes | € 15,- | No |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer02 | Bluetooth | Yes | € 15,- | No |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer03 | Bluetooth | Yes | € 15,- | No |
