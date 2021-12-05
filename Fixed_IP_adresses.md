@@ -53,3 +53,11 @@ Config for my esp boards/device.
 | # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Espressif | ESP32-WROOM-32D | 192.168.1.71 | ESP32_01 | Mevius domotica | ESP32_01.daarle |
+
+# Broadlink RM4 pro for infrared / RF connectivity:
+  name: Broadlink
+  platform: /
+  board: /
+| # | Brand | Model | IP Address | Device name | WiFi Network | DNS name |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Broadlink | RM4 pro | 192.168.1.80 | BroadlinkRM4pro | Mevius domotica | ESP32_01.daarle |
