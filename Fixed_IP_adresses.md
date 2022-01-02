@@ -45,6 +45,9 @@ Config for my esp boards/device.
 | --- | --- | --- | --- | --- | --- | --- |
 |  | QuinLED | Dig-Quad | 192.168.1.61 | DigQuad01 | Mevius domotica | digquad01.daarle |
 |  | QuinLED | Dig-Uno | 192.168.1.62 | DigUno01 | Mevius domotica | diguno01.daarle |
+|  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.63 | QuinLEDQuad01 | Mevius domotica | QuinLEDQuad01.daarle |
+|  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.64 | QuinLEDQuad02 | Mevius domotica | QuinLEDQuad02.daarle |
+|  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.65 | QuinLEDQuad03 | Mevius domotica | QuinLEDQuad03.daarle |
 
 # ESP32 for bluetooth connectivity:
   name: ESP32_##
