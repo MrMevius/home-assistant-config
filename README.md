@@ -1,9 +1,5 @@
 # Mevius' Home Assistant Configuration
 
-![Project Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE.md)
-![GitHub Last Commit][last-commit-shield]
-
 ## About
 
 This is my first attempt at home automation, Home Assistant _and_ GitHub,
