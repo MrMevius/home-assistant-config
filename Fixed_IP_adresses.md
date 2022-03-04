@@ -55,7 +55,7 @@ Config for my esp boards/device.
   platform: ESPhome
   board: ESP32
 | # | Brand | Model | IP Address | Device name | DNS name | Useage |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 |  | Espressif | ESP32-WROOM-32D | 192.168.1.71 | ESP32_01 | ESP32_01.daarle | Living Room bluetooth connectivity |
 
 # Broadlink RM4 pro for infrared / RF connectivity:
