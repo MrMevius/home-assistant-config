@@ -65,3 +65,11 @@ Config for my esp boards/device.
 | # | Brand | Model | IP Address | Device name | DNS name | Useage |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Broadlink | RM4 pro | 192.168.1.80 | BroadlinkRM4pro | ESP32_01.daarle | Control pellet stove| |
+
+# SmartGateways P1 to wifi gateway
+  name: P1 energy reader
+  platform: ESP
+  board: ESP32
+| # | Brand | Model | IP Address | Device name | DNS name | Useage |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Connectix | DSMR P1 | 192.168.1.75 | Connectix P1 reader | - | P1 energy reader| |
