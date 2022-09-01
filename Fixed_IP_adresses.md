@@ -44,10 +44,10 @@ Config for my esp boards/device.
 
 | # | Brand | Model | IP Address | Device name | DNS name | Useage |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | QuinLED | Dig-Quad | 192.168.1.61 | DigQuad01 | digquad01.daarle | *On the shelf* |
+|  | QuinLED | QuinLed-Dig-Quad | 192.168.1.61 | QuinLEDDigQuad01 | QuinLEDDigQuad01.daarle | Office Mark lights |
 |  | QuinLED | Dig-Uno | 192.168.1.62 | DigUno01 | diguno01.daarle | *On the shelf* |
 |  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.63 | QuinLEDQuad01 | QuinLEDQuad01.daarle | Mantelpiece lights |
-|  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.64 | QuinLEDQuad02 | QuinLEDQuad02.daarle | *On the shelf* |
+|  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.64 | QuinLEDQuad02 | QuinLEDQuad02.daarle | Office Mark lights |
 |  | QuinLED | QuinLED-Quad ESP32 | 192.168.1.65 | QuinLEDQuad03 | QuinLEDQuad03.daarle | *On the shelf* |
 
 # ESP32 for bluetooth connectivity:
