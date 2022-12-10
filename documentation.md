@@ -40,6 +40,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot13 | Zigbee | Yes | € 6,99 | Yes |
 | Aqara | RTCGQ11LM | Motion Sensor | Motion04 | Zigbee | Yes | € 10,- | Yes |
 | Shelly | 1 | Relay Switch | Shelly01 | WiFi | No | € 11,- | No |
+| Zuidwijk | Slimemlezer+ | p1 to wifi meter | slimmelezen | WiFi | Yes | € 32,55| No |
 # Hallway upstairs front
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
