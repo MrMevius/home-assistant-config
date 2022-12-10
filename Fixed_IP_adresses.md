@@ -72,4 +72,4 @@ Config for my esp boards/device.
   board: ESP32
 | # | Brand | Model | IP Address | Device name | DNS name | Useage |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Connectix | DSMR P1 | 192.168.1.75 | Connectix P1 reader | - | P1 energy reader| |
+|  | slimmemeter | DSMR P1 | 192.168.1.77 | Smillemeter P1 reader | - | P1 energy reader| |
