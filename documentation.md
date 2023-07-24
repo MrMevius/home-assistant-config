@@ -26,7 +26,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Aqara | RTCGQ11LM | Motion Sensor | Motion08 | Zigbee | Yes | € 10,- | Yes |
 | Broadlink | RM4 pro | Universal IR & RF Remote | BL01 | 433MHz | Yes | € 35,- | No |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer08 | Bluetooth | Yes | € 17,- | Yes |
-| Aqara | FP1 | Human Presence Sensor | presence01 | Zigbee | Yes | € 43,49 | Nos |
+| Aqara | FP1 | Human Presence Sensor | Presence01 | Zigbee | Yes | € 43,49 | Nos |
 # Kitchen
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
