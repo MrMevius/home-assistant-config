@@ -66,6 +66,7 @@ My plan is to use this wiki to document all home automation devices and their in
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | QuinLED | Dig-Quad | Digital LED controller | DigQuad01 | WiFi | Yes | € 55,- | No |
+| XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer02 | Bluetooth | Yes | € 15,- | Yes |
 # Office Janneke
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -104,7 +105,6 @@ My plan is to use this wiki to document all home automation devices and their in
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer01 | Bluetooth | Yes | € 15,- | Yes |
-| XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer02 | Bluetooth | Yes | € 15,- | Yes |
 | XIAOMI | CGG1 | Thermo & Hygrometer | Thermometer03 | Bluetooth | Yes | € 15,- | Yes |
 | Aqara | WSDCGQ11LM | Air, thermo & humidity | Thermometer07 | Zigbee | Yes | € 9,- | Yes |
 | Roborock | S5 Max | Vacuum & mop robot | VC01 | WiFi | Yes | € 333,- | No |
