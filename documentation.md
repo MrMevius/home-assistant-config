@@ -187,14 +187,14 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot18 | Zigbee | Yes | € 6,99 | No |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot33 | Zigbee | Yes | € 4,- | Yes |
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot34 | Zigbee | Yes | € 4,- | Yes |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps17 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps18 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps19 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps20 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps21 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps22 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps23 | Zigbee | Yes | € 8,60 | No |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps24 | Zigbee | Yes | € 8,60 | No |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps17 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps18 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps19 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps20 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps21 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps22 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps23 | Zigbee | Yes | € 8,60 | Yes |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps24 | Zigbee | Yes | € 8,60 | Yes |
 # Infrastructure
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
