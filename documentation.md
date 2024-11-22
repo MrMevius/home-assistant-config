@@ -120,6 +120,8 @@ My plan is to use this wiki to document all home automation devices and their in
 | Ikea | LED1650R5 | LED Spotlight GU10 | Spot30 | Zigbee | No | € 6,99 | No |
 | Moes | MS-104Z | Smart Switch Relay | Relay01 | Zigbee | Yes | € 6,99 | Yes |
 | Shelly | 1 | Relay Switch | Shelly03 | WiFi | Yes | € 11,- | No |
+| BlitzWolf | BW-SHP15 | Power switch & -meter | ps21 | Zigbee | Yes | € 8,60 | Yes |
+| Aqara | WXKG06LM | Single rocker | lightswitch03 | Zigbee | Yes | € 12,- | Yes |
 # Terrace
 | Brand | Model | Device | Device name | Protocol | Purchased | Price | Labeled |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -191,7 +193,6 @@ My plan is to use this wiki to document all home automation devices and their in
 | BlitzWolf | BW-SHP15 | Power switch & -meter | ps18 | Zigbee | Yes | € 8,60 | Yes |
 | BlitzWolf | BW-SHP15 | Power switch & -meter | ps19 | Zigbee | Yes | € 8,60 | Yes |
 | BlitzWolf | BW-SHP15 | Power switch & -meter | ps20 | Zigbee | Yes | € 8,60 | Yes |
-| BlitzWolf | BW-SHP15 | Power switch & -meter | ps21 | Zigbee | Yes | € 8,60 | Yes |
 | BlitzWolf | BW-SHP15 | Power switch & -meter | ps22 | Zigbee | Yes | € 8,60 | Yes |
 | BlitzWolf | BW-SHP15 | Power switch & -meter | ps23 | Zigbee | Yes | € 8,60 | Yes |
 | BlitzWolf | BW-SHP15 | Power switch & -meter | ps24 | Zigbee | Yes | € 8,60 | Yes |
